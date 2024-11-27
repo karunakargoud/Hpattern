@@ -1,0 +1,7 @@
+C:\Users\karun\source\repos\Hpattern\Hpattern\bin\Debug\Hpattern.exe.config
+C:\Users\karun\source\repos\Hpattern\Hpattern\bin\Debug\Hpattern.exe
+C:\Users\karun\source\repos\Hpattern\Hpattern\bin\Debug\Hpattern.pdb
+C:\Users\karun\source\repos\Hpattern\Hpattern\obj\Debug\Hpattern.csproj.AssemblyReference.cache
+C:\Users\karun\source\repos\Hpattern\Hpattern\obj\Debug\Hpattern.csproj.CoreCompileInputs.cache
+C:\Users\karun\source\repos\Hpattern\Hpattern\obj\Debug\Hpattern.exe
+C:\Users\karun\source\repos\Hpattern\Hpattern\obj\Debug\Hpattern.pdb
